@@ -24,12 +24,4 @@ Développement d’un **classifieur binaire** capable de déterminer si un tweet
 
 ---
 
-## Aperçu visuel
 
-| Présentation | Rapport |
-|--------------|--------|
-| ![Présentation](https://github.com/ton-pseudo/QuiTweet-Trump-Trudeau/raw/main/assets/presentation_cover.png) | ![Rapport](https://github.com/ton-pseudo/QuiTweet-Trump-Trudeau/raw/main/assets/rapport_cover.png) |
-
----
-
-## Structure du dépôt
